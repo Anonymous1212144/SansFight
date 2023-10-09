@@ -31,9 +31,9 @@
             ["t4", 1, false, [], 0, 0, null, null, [], false, false, 1871150019731238, [], null, []],
             ["t5", 3, false, [], 0, 0, null, null, [], false, false, 130305442643432, [], null, [0, 0, 0, 1, 1, 600, 600, 10000, 1]],
             ["t6", 13, false, [], 0, 0, null, null, [], false, false, 833371787328053, [], null, [1]],
-            ["t7", 10, false, [], 0, 0, ["images/hpbackground.png", 92, 1], null, [], false, false, 8009642851719156, [], null],
-            ["t8", 10, false, [], 0, 0, ["images/hpbar.png", 92, 4], null, [], false, false, 5315983389834433, [], null],
-            ["t9", 10, false, [], 0, 0, ["images/krbar.png", 92, 4], null, [], false, false, 8840599197819951, [], null],
+            ["t7", 10, false, [], 0, 0, ["images/hpbackground.png", 20, 1], null, [], false, false, 8009642851719156, [], null],
+            ["t8", 10, false, [], 0, 0, ["images/hpbar.png", 20, 4], null, [], false, false, 5315983389834433, [], null],
+            ["t9", 10, false, [], 0, 0, ["images/krbar.png", 20, 4], null, [], false, false, 8840599197819951, [], null],
             ["t10", 11, false, [3161584809306413, 5414051533652294], 0, 0, null, [
                     ["Default", 5, false, 1, 0, false, 7839461660390996, [
                         ["images/uiact-sheet0.png", 339, 1, 1, 110, 42, 1, 0, 0, [
